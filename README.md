@@ -35,7 +35,7 @@ If applicable, include screenshots of the project or its features.
 
 ## License 📝
 
-This project is licensed under the [MIT-LICENSE](link-to-license-file).
+This project is licensed under the [MIT-LICENSE](https://github.com/Alex-G-R/2D-RigidBody-Physics-Engine/blob/main/LICENSE).
 
 ## Acknowledgments 🙏
 
