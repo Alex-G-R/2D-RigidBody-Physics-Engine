@@ -13,7 +13,7 @@ This is a simple 2D Physics engine, built by me.
 ## Installation & Usage 🛠️
 
 ### Compiling
-1. Clone the repository using `git clone https://github.com/{repo-owner}/{repo-name}`.
+1. Clone the repository using `git clone https://github.com/{Alex-G-R}/{2D-RigidBody-Physics-Engine}`.
 2. Navigate to the project directory using `cd 2D-RigidBody-Physics-Engine`.
 3. Spin up mingw or other compiler of your choice
 4. And there you go: <br>
