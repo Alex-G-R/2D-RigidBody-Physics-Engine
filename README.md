@@ -19,10 +19,6 @@ This is a simple 2D Physics engine, built by me.
 4. And there you go: <br>
 ` g++ -c src/*.cpp -std=c++14 -m64 -g -Wall -I include && g++ *.o -o bin/debug/main -lSDL2main -lSDL2 -lSDL2_image && ./bin/debug/main `
 
-## Screenshots 📷
-
-If applicable, include screenshots of the project or its features.
-
 ## Technologies Used 🛠️
 
 - C++
@@ -39,7 +35,7 @@ This project is licensed under the [MIT-LICENSE](https://github.com/Alex-G-R/2D-
 
 ## Acknowledgments 🙏
 
-Thanks to the 
+Thanks to the [BeanyTheCoder](https://github.com/BeanyTheCoder) for letting me use his README.md template!
 
 ## Contact 📧
 
