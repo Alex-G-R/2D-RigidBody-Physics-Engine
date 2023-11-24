@@ -1,0 +1,8 @@
+# Ignore all .o files
+*.o
+
+# Ignore files called 'main' without any file type in any directory
+**/main
+
+*.sublime-project
+*.sublime-workspace
