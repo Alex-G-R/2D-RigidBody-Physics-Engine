@@ -25,26 +25,26 @@ If applicable, include screenshots of the project or its features.
 
 ## Technologies Used 🛠️
 
-- Technology 1
-- Technology 2
-- Technology 3
+- C++
+- SDL2
 
 ## Roadmap 🗺️
-
-Planned future developments and features.
+1. Add spheres
+2. Add triangles
+3. Softbody?
 
 ## License 📝
 
-This project is licensed under the [License Name](link-to-license-file).
+This project is licensed under the [MIT-LICENSE](link-to-license-file).
 
 ## Acknowledgments 🙏
 
-Credit to inspiration sources or contributors.
+Thanks to the 
 
 ## Contact 📧
 
-For any questions or feedback, feel free to reach out to me at `{email}`
+For any questions or feedback, feel free to reach out to me at `{alex.grabski555@gmail.com}`
 
 ## Project Status 🚀
 
-Current status on the project.
+The engine is working and will be updated.. sometimes :)
