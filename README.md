@@ -12,11 +12,12 @@ This is a simple 2D Physics engine, built by me.
 
 ## Installation & Usage 🛠️
 
-### HTML apps
+### Compiling
 1. Clone the repository using `git clone https://github.com/{repo-owner}/{repo-name}`.
-
-2. Navigate to the project directory using `cd {repo-name}`.
-3. Open the `index.html` file using any web browser of your choice.
+2. Navigate to the project directory using `cd 2D-RigidBody-Physics-Engine`.
+3. Spin up mingw or other compiler of your choice
+4. And there you go:
+   ` g++ -c src/*.cpp -std=c++14 -m64 -g -Wall -I include && g++ *.o -o bin/debug/main -lSDL2main -lSDL2 -lSDL2_image && ./bin/debug/main `
 
 ## Screenshots 📷
 
