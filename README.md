@@ -39,7 +39,7 @@ Thanks to the [BeanyTheCoder](https://github.com/BeanyTheCoder) for letting me u
 
 ## Contact 📧
 
-For any questions or feedback, feel free to reach out to me at `{alex.grabski555@gmail.com}`
+For any questions or feedback, feel free to reach out to me at my [email](alex.grabski555@gmail.com).
 
 ## Project Status 🚀
 
